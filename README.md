@@ -1,2 +1,3 @@
 # learning_journey
 This is my first git repository.
+Author - Aseem Krishna Choudhary
